@@ -1,0 +1,15 @@
+/Users/betul/Desktop/yeni2/bin/Debug/net6.0/yeni2
+/Users/betul/Desktop/yeni2/bin/Debug/net6.0/yeni2.deps.json
+/Users/betul/Desktop/yeni2/bin/Debug/net6.0/yeni2.runtimeconfig.json
+/Users/betul/Desktop/yeni2/bin/Debug/net6.0/yeni2.dll
+/Users/betul/Desktop/yeni2/bin/Debug/net6.0/yeni2.pdb
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.csproj.AssemblyReference.cache
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.AssemblyInfoInputs.cache
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.AssemblyInfo.cs
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.csproj.CoreCompileInputs.cache
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.dll
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/refint/yeni2.dll
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.pdb
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/yeni2.genruntimeconfig.cache
+/Users/betul/Desktop/yeni2/obj/Debug/net6.0/ref/yeni2.dll
