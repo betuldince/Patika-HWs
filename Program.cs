@@ -1,21 +1,31 @@
-﻿using System;
-
-namespace ConsoleProgramming
+﻿ 
+namespace yeni
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            //Main ana fonksiyon default olarak public tir
-            //static bir nesne örneği yaratmadan maine ulaşma
-            //void geri dönmeyecek
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Your name");
-            string name = Console.ReadLine();
-            Console.WriteLine("Your surname");
-            string lastname = Console.ReadLine();
+    class yeni{
+        static void Main(string[] args){
 
-            Console.WriteLine("Merhaba : " + name + " " + lastname);
+            string[] renkler = new string[5];
+            string[] hayvanlar={"ceren","erman","falan"};
+            int[] dizi;
+            dizi= new int[5];
+
+            int dizi_uzunlugu=int.Parse(Console.ReadLine());
+            int[] sayı_dizi= new int[dizi_uzunlugu];
+            for(int i=0;i<dizi_uzunlugu;i++){
+                Console.Write(dizi_uzunlugu+"gir");
+                sayı_dizi[i]=int.Parse(Console.ReadLine());
+            }
+
+            int toplam=0;
+            foreach(var sayı in sayı_dizi){
+                toplam+=sayı;
+            }
+            Console.Write(toplam);
+            
         }
+
     }
 }
+
+
+// See https://aka.ms/new-console-template for more information
