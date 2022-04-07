@@ -1,0 +1,15 @@
+/Users/betul/Desktop/hw11/bin/Debug/net6.0/hw11
+/Users/betul/Desktop/hw11/bin/Debug/net6.0/hw11.deps.json
+/Users/betul/Desktop/hw11/bin/Debug/net6.0/hw11.runtimeconfig.json
+/Users/betul/Desktop/hw11/bin/Debug/net6.0/hw11.dll
+/Users/betul/Desktop/hw11/bin/Debug/net6.0/hw11.pdb
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.csproj.AssemblyReference.cache
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.AssemblyInfoInputs.cache
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.AssemblyInfo.cs
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.csproj.CoreCompileInputs.cache
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.dll
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/refint/hw11.dll
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.pdb
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/hw11.genruntimeconfig.cache
+/Users/betul/Desktop/hw11/obj/Debug/net6.0/ref/hw11.dll
