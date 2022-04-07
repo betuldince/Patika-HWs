@@ -1,0 +1,15 @@
+/Users/betul/Desktop/hw9/bin/Debug/net6.0/hw9
+/Users/betul/Desktop/hw9/bin/Debug/net6.0/hw9.deps.json
+/Users/betul/Desktop/hw9/bin/Debug/net6.0/hw9.runtimeconfig.json
+/Users/betul/Desktop/hw9/bin/Debug/net6.0/hw9.dll
+/Users/betul/Desktop/hw9/bin/Debug/net6.0/hw9.pdb
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.csproj.AssemblyReference.cache
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.AssemblyInfoInputs.cache
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.AssemblyInfo.cs
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.csproj.CoreCompileInputs.cache
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.dll
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/refint/hw9.dll
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.pdb
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/hw9.genruntimeconfig.cache
+/Users/betul/Desktop/hw9/obj/Debug/net6.0/ref/hw9.dll
